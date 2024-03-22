@@ -11,4 +11,4 @@
 module load gcc
 export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
 
-./postmanS
+./output_PostmanSort.txt
